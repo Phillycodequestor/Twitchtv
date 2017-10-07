@@ -1,0 +1,51 @@
+.outline{
+  outline: .5px solid black;
+}
+
+#header {
+  color: DarkMagenta;
+}
+
+#buttons {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#box {
+  height: 1000px;
+  margin-top: 10px;
+}
+
+img{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+.online {
+  background: Bisque;
+  color: DarkMagenta;
+  padding: 10px;
+}
+
+.offline {
+  background: DarkSeaGreen;
+color: DarkMagenta;
+  padding: 10px;
+}
+a:link {
+  text-decoration: none;
+  color: DarkMagenta;
+}
+a:visited {
+  text-decoration: none;
+  color: DarkMagenta;
+}
+a:hover {
+  text-decoration: none;
+  color: white;
+}
+a:active {
+  text-decoration: none;
+  color: white;
+}
